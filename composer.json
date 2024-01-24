@@ -13,8 +13,8 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "knplabs/knp-paginator-bundle": "dev-master",
-        "lexik/form-filter-bundle" : "dev-master"
+        "knplabs/knp-paginator-bundle": "2.*",
+        "lexik/form-filter-bundle": "~3.0"
     },
     "autoload": {
         "psr-0": { "Savvy\\FilterNatorBundle": "" }
